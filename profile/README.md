@@ -5,6 +5,7 @@ This study is to understand how humans hear their voice differently than others 
 ## Simulator
 Simulating Sound Travelsal trough the human model by each sound frequency
 [Simulator Repository](https://github.com/Selfhear/Selfhear)
+
 ![App animation](https://raw.githubusercontent.com/Selfhear/.github/main/profile/animation.gif "App animation")
 ## iOS Survey Logger
 An iOS app for statitical experiment. Using Firebase and cloud functions [repo](https://github.com/Selfhear/Cloud-function-Selfhear) for backends.
