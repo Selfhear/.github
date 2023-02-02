@@ -1,6 +1,6 @@
 # Selfhear
 Study of the sound wave which speakers hear themselves.
-This study is to understand how humans hear their voice differently than others hear. The experiment was simulated from the MRI pictures and Human organ acoustics property database (ex., sound absorption coefficient).
+This study is to understand how humans hear their voice differently than others hear them. The experiment was simulated from the MRI pictures and Human organ acoustics property database (ex., sound absorption coefficient).
 
 ## Simulator
 Simulating Sound Travelsal trough the human model by each sound frequency
